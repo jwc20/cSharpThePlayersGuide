@@ -1,0 +1,15 @@
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\bin\Debug\net6.0\1WhatComesNext.exe
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\bin\Debug\net6.0\1WhatComesNext.deps.json
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\bin\Debug\net6.0\1WhatComesNext.runtimeconfig.json
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\bin\Debug\net6.0\1WhatComesNext.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\bin\Debug\net6.0\1WhatComesNext.pdb
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.csproj.AssemblyReference.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.AssemblyInfo.cs
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\refint\1WhatComesNext.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.pdb
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\1WhatComesNext.genruntimeconfig.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\1WhatComesNext\obj\Debug\net6.0\ref\1WhatComesNext.dll
