@@ -1,0 +1,15 @@
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\bin\Debug\net6.0\0HelloWorld.exe
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\bin\Debug\net6.0\0HelloWorld.deps.json
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\bin\Debug\net6.0\0HelloWorld.runtimeconfig.json
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\bin\Debug\net6.0\0HelloWorld.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\bin\Debug\net6.0\0HelloWorld.pdb
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.csproj.AssemblyReference.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.AssemblyInfoInputs.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.AssemblyInfo.cs
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\refint\0HelloWorld.dll
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.pdb
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\0HelloWorld.genruntimeconfig.cache
+C:\Users\dev\Development\cSharpThePlayersGuide\challenges\0HelloWorld\obj\Debug\net6.0\ref\0HelloWorld.dll
