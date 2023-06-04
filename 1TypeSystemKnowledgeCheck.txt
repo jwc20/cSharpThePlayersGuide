@@ -1,0 +1,17 @@
+1. False
+2. byte, short, int, long
+3. false
+4. int 
+5. double, float, decimal
+6. decimal
+7. decimal
+8. string
+9. bool
+
+
+
+4s. uint, since it doesn't need to allocate a bit for negative sign, all 32 bits are available to represent the value. This allows the uint type to store numbers in range of 0 to 4 billion.
+
+6s. double. 
+The reason why "double" can hold the largest numbers in C# compared to "float" and "decimal" is primarily due to the difference in the number of bits allocated to represent the value. With 64 bits, "double" can provide a larger range and accommodate more significant digits, allowing it to represent larger numbers accurately.
+
